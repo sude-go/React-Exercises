@@ -1,0 +1,20 @@
+* {
+  margin: 50px;
+  background-color: black;
+}
+
+button{
+  text-align: center;
+  color: antiquewhite;
+  border: 5px solid grey;
+  border-radius: 5px;
+  width: 500px;
+}
+
+button:hover {
+  color: blueviolet;
+  background-color: azure;
+  border: 3px solid grey;
+  font-size: medium;
+  height: 30px;
+}

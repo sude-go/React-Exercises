@@ -1,0 +1,25 @@
+*{
+  text-align: center;
+  font-size: large;
+  background-color: black;
+  margin: 20px;
+}
+input{
+  color: black;
+  background-color: #fff8ef;
+  border: 2px solid ;
+  border-radius: 5px;
+  height: 40px;
+  width: 150px;
+}
+
+p {
+  font-size: medium;
+  color: #f9f7f6;
+}
+
+button {
+  background-color: #ffcecf;
+  border: 1px solid #ffcecf;
+  border-radius: 5px;
+}

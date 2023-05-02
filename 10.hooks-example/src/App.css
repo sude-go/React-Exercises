@@ -1,0 +1,17 @@
+* {
+  margin: 20px;
+  background-color: black;
+}
+
+label {
+  color: grey;
+}
+label input{
+  color: grey;
+  border: 2px solid green;
+  border-radius: 5px;
+}
+
+p{ 
+  color: aqua;
+}
